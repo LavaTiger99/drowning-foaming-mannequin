@@ -1,14 +1,13 @@
 # 3D print files
 
-**Print** the `.3mf` files. **Edit** the Fusion files (`.f3d` / `.f3z`) in Fusion 360.
+**Print** the `.3mf` files. **Edit** the `.f3d` files in Fusion 360.
 
 | Part | 3MF (print) | Fusion (edit) |
 | --- | --- | --- |
-| Mixing bottle — divided **Jar** + funnel **Lid** | [Drowning Mannequin Bottle.3mf](Drowning%20Mannequin%20Bottle.3mf) | [Drowning Mannequin Bottle.f3d](Drowning%20Mannequin%20Bottle.f3d) |
-| Mini Anne mouthpiece — pops on in place of the lung bag | [Laerdal Mini Anne Mannequin Mouth Attachment.3mf](Laerdal%20Mini%20Anne%20Mannequin%20Mouth%20Attachment.3mf) | [Laerdal Mini Anne Mannequin Mouth Attachment.f3d](Laerdal%20Mini%20Anne%20Mannequin%20Mouth%20Attachment.f3d) |
-| Simulaids Water Rescue Manikin mouthpiece — plugs into the back of the mouth | [Simulaids Water Rescue Mannequin Foaming Adapter.3mf](Simulaids%20Water%20Rescue%20Mannequin%20Foaming%20Adapter.3mf) | [Simulaids Water Rescue Mannequin Foaming Adapter.f3z](Simulaids%20Water%20Rescue%20Mannequin%20Foaming%20Adapter.f3z) |
+| Mixing bottle — divided **Jar** + funnel **Lid** | <a href="Drowning%20Mannequin%20Bottle.3mf" target="_blank" rel="noopener noreferrer">Drowning Mannequin Bottle.3mf</a> | <a href="Drowning%20Mannequin%20Bottle.f3d" target="_blank" rel="noopener noreferrer">Drowning Mannequin Bottle.f3d</a> |
+| Mini Anne mouthpiece — pops on in place of the lung bag | <a href="Laerdal%20Mini%20Anne%20Mannequin%20Mouth%20Attachment.3mf" target="_blank" rel="noopener noreferrer">Laerdal Mini Anne Mannequin Mouth Attachment.3mf</a> | <a href="Laerdal%20Mini%20Anne%20Mannequin%20Mouth%20Attachment.f3d" target="_blank" rel="noopener noreferrer">Laerdal Mini Anne Mannequin Mouth Attachment.f3d</a> |
 
-You can also print a custom adapter for a different manikin. The hose end needs the same barb as the mixing-bottle lid so the 3/8 in (10 mm ID) latex tubing pushes on.
+*Other manikins:* <a href="https://www.universalmedicalinc.com/simulaids-water-rescue-manikin-adult.html" target="_blank" rel="noopener noreferrer">Simulaids Water Rescue Manikin</a> adapter that plugs into the back of the mouth — <a href="Simulaids%20Water%20Rescue%20Mannequin%20Foaming%20Adapter.3mf" target="_blank" rel="noopener noreferrer">3MF</a> / <a href="Simulaids%20Water%20Rescue%20Mannequin%20Foaming%20Adapter.f3z" target="_blank" rel="noopener noreferrer">Fusion <code>.f3z</code></a>. A custom adapter is fine too if the hose end uses the same barb as the mixing-bottle lid (3/8 in / 10 mm ID latex tubing).
 
 ## Recommended print settings
 
