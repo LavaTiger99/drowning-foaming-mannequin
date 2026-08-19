@@ -1,8 +1,16 @@
 # Foaming Drowning Mannequin
 
-A compact, instructor-built training aid that makes foam pour from a CPR manikin’s mouth during a drowning or water-rescue scenario.
+![Foam pouring from a water-rescue manikin’s mouth during a training scenario](images/foaming-in-action.png)
 
-It is meant for **lifeguard, EMS, and water-rescue instructors** who want a visual cue of foam at the airway without buying a specialty drowning dummy. The manikin is inflatable, so the whole kit packs small and travels easily.
+*Foam out of the mouth during a water-rescue drill. Invert the mixing bottle when you want it to start.*
+
+A compact, instructor-built training aid that makes foam pour from a manikin’s mouth during a drowning or water-rescue scenario.
+
+It is meant for **lifeguard, EMS, and water-rescue instructors** who want a visual cue of foam at the airway. The default build uses an inflatable Mini Anne, so that kit packs small and travels easily. The same mixing bottle and hose also work on a Simulaids water-rescue dummy, or on any manikin if you print an adapter with the matching hose barb.
+
+![Full kit: Mini Anne, rubber tubing, mixing bottle, and two marked premix bottles](images/whole-setup.jpg)
+
+*Mini Anne, mixing bottle, tubing, and the two premix bottles marked for four rounds.*
 
 > **Training use only.** This is a classroom / scenario prop, not a medical device.
 
@@ -17,7 +25,9 @@ Two solutions stay separated until you decide the “victim” should foam:
 | **1** | 3% hydrogen peroxide + dish soap | Peroxide supplies oxygen; soap traps it as foam |
 | **2** | Room-temperature water\* + dry yeast | Yeast (catalase) triggers the reaction |
 
-Those two mixes live in a **3D-printed mixing bottle** with a divider down the middle. Keep the bottle upright to prime and wait. When the rescue is underway, flip it. Both sides dump into a **funnel-shaped lid**, mix, and foam out through rubber tubing into a **mouthpiece adapter** that pops onto the Mini Anne in place of the lung bag.
+Those two mixes live in a **3D-printed mixing bottle** with a divider down the middle. Keep the bottle upright to prime and wait. When the rescue is underway, flip it. Both sides dump into a **funnel-shaped lid**, mix, and foam out through rubber tubing into a **mouthpiece adapter** on the manikin.
+
+The default adapter pops onto a **Mini Anne** where the lung bag normally sits. There is also a print that plugs into the back of the mouth on a **Simulaids Water Rescue Manikin**. Any other manikin works if you print a custom adapter with the same hose barb.
 
 You can leave the tubing **disconnected from the mixing bottle** while the team pulls the manikin out of a pond or lake, then attach the hose when you want foam in the middle of the scenario.
 
@@ -27,7 +37,7 @@ flowchart LR
   C2["Chamber 2<br/>yeast + room-temp water"]
   Lid["Funnel lid<br/>(mixes when inverted)"]
   Tube["Rubber tubing"]
-  Mouth["Mouthpiece adapter<br/>in Mini Anne"]
+  Mouth["Mouthpiece adapter"]
 
   C1 --> Lid
   C2 --> Lid
@@ -46,25 +56,30 @@ The chemistry is the same classroom reaction as “elephant toothpaste”: yeast
 
 | Item | Why | Link |
 | --- | --- | --- |
-| **Laerdal Mini Anne** (Global Set) | Inflatable adult CPR manikin. Packs down small. The lung bag pops off the mouth from behind; that is where the printed adapter goes. | [Amazon](https://www.amazon.com/dp/B0CHSG9MXJ) |
+| **Laerdal Mini Anne** (Global Set) | Default manikin. Inflatable, packs down small. The lung bag pops off the mouth from behind; that is where the printed adapter goes. | [Amazon](https://www.amazon.com/dp/B0CHSG9MXJ) |
+| **Simulaids Water Rescue Manikin** (adult) — *optional* | Alternate if you already train with a dedicated water-rescue dummy. The printed adapter plugs into the back of the mouth. | [Universal Medical](https://www.universalmedicalinc.com/simulaids-water-rescue-manikin-adult.html) |
 | **Natural latex tubing** — 3/8 in (10 mm) ID × 9/16 in (14 mm) OD, 1 m | Hose from mixing bottle to mouthpiece. Cut to length. | [Amazon](https://www.amazon.com/dp/B093WBLZMP) |
 | **32 oz / 1000 ml HDPE bottles**, pack of 2 | Premix **four rounds** of each solution and mark fill lines on the side. | [Amazon](https://www.amazon.com/dp/B0DT6NVHJP) |
 
 ### 3D print
 
-Print the **3MF** files in [`3d-print-files/`](3d-print-files/). The matching **Fusion 360** (`.f3d`) files are there if you want to edit the models.
+Print the **3MF** files in [`3d-print-files/`](3d-print-files/). The matching **Fusion 360** files (`.f3d` / `.f3z`) are there if you want to edit the models.
 
 <p align="center">
-  <img src="images/mixing-bottle.png" alt="Cross-section of the mixing bottle and funnel lid" width="360">
-  <img src="images/mouthpiece-adapter.png" alt="Mouthpiece adapter with hose barb and snap-in tabs" width="360">
+  <img src="images/mixing-bottle.png" alt="Cross-section of the mixing bottle and funnel lid" width="280">
+  <img src="images/mouthpiece-adapter.png" alt="Mini Anne mouthpiece adapter with hose barb and snap-in tabs" width="280">
+  <img src="images/simulaids-adapter.png" alt="Simulaids water rescue manikin mouth adapter with hose barb" width="280">
 </p>
 
 | Part | Print this | Edit this |
 | --- | --- | --- |
 | **Mixing bottle** (divided jar + funnel lid) | [Drowning Mannequin Bottle.3mf](3d-print-files/Drowning%20Mannequin%20Bottle.3mf) | [Drowning Mannequin Bottle.f3d](3d-print-files/Drowning%20Mannequin%20Bottle.f3d) |
-| **Mouthpiece adapter** | [Laerdal Mini Anne Mannequin Mouth Attachment.3mf](3d-print-files/Laerdal%20Mini%20Anne%20Mannequin%20Mouth%20Attachment.3mf) | [Laerdal Mini Anne Mannequin Mouth Attachment.f3d](3d-print-files/Laerdal%20Mini%20Anne%20Mannequin%20Mouth%20Attachment.f3d) |
+| **Mini Anne mouthpiece** | [Laerdal Mini Anne Mannequin Mouth Attachment.3mf](3d-print-files/Laerdal%20Mini%20Anne%20Mannequin%20Mouth%20Attachment.3mf) | [Laerdal Mini Anne Mannequin Mouth Attachment.f3d](3d-print-files/Laerdal%20Mini%20Anne%20Mannequin%20Mouth%20Attachment.f3d) |
+| **Simulaids mouthpiece** (alternate) | [Simulaids Water Rescue Mannequin Foaming Adapter.3mf](3d-print-files/Simulaids%20Water%20Rescue%20Mannequin%20Foaming%20Adapter.3mf) | [Simulaids Water Rescue Mannequin Foaming Adapter.f3z](3d-print-files/Simulaids%20Water%20Rescue%20Mannequin%20Foaming%20Adapter.f3z) |
 
-The bottle 3MF contains two bodies: **Jar** (divider down the middle) and **Lid** (funnel that mixes the two sides when you invert it, with a barb for the hose). The mouthpiece 3MF is a **T adapter** that pops on where the lungs were; the other end takes the rubber tubing.
+The bottle 3MF contains two bodies: **Jar** (divider down the middle) and **Lid** (funnel that mixes the two sides when you invert it, with a barb for the hose). The Mini Anne mouthpiece pops on where the lungs were. The Simulaids adapter plugs into the back of that manikin’s mouth. Both hose ends use the same barb as the bottle lid.
+
+You can also **print any custom adapter** for a different manikin. The manikin end can be whatever fits that dummy; the hose end just needs the **same barb** so the 3/8 in (10 mm ID) latex tubing pushes on.
 
 **Print settings:** PLA, **0.4 mm nozzle**. More detail in [`3d-print-files/README.md`](3d-print-files/README.md).
 
@@ -77,14 +92,18 @@ The bottle 3MF contains two bodies: **Jar** (divider down the middle) and **Lid*
 
 ---
 
-## Why this manikin
+## Choosing a manikin
 
-Mini Anne is a good fit for a traveling foam kit:
+**Mini Anne** is the compact traveling kit:
 
 - **Inflatable** — deflates and packs into a small bag
 - **Light** — easy to toss into a lake, pool deck, or boat
 - **Familiar airway** — students already know the head/chin landmarks
 - **Lung mount** — lift the face, pop off the lung bag, pop on the adapter. Nothing is glued to the face.
+
+**Simulaids Water Rescue Manikin** is an alternate if you already own that dummy. The printed adapter plugs straight into the back of the mouth. Same mixing bottle and hose.
+
+Any other manikin is fine if you model a mouthpiece with the matching hose barb.
 
 ---
 
@@ -106,7 +125,7 @@ Suggested starting point:
 | Walls | 3 perimeters |
 | Supports | As needed on the funnel lid and any overhanging barbs |
 
-To change geometry, open the `.f3d` files in [Fusion 360](https://www.autodesk.com/products/fusion-360/overview).
+To change geometry, open the `.f3d` or `.f3z` files in [Fusion 360](https://www.autodesk.com/products/fusion-360/overview).
 
 ---
 
@@ -114,11 +133,25 @@ To change geometry, open the `.f3d` files in [Fusion 360](https://www.autodesk.c
 
 ### 1. Install the mouthpiece
 
+**Mini Anne (default)**
+
+![Mouthpiece adapter clicked into the inside of the Mini Anne head, with tubing attached](images/underside-of-head-attachment.jpg)
+
+*Lift the face, pop off the lung bag, and click the adapter in from behind. The tubing pushes onto the barb.*
+
 1. Inflate Mini Anne as usual.
 2. **Lift up the face** of the mannequin.
 3. **Pop off the lung bag** and detach it from the mannequin.
 4. **Pop on the adapter** in that same spot.
 5. Push one end of the rubber tubing onto the adapter barb.
+
+**Simulaids Water Rescue Manikin (alternate)**
+
+Plug the printed adapter directly into the **back of the mouth**, then push the tubing onto the barb.
+
+**Custom adapter**
+
+Print whatever seats on your manikin. Match the **hose barb** to the mixing-bottle lid so the same 3/8 in (10 mm ID) tubing fits both ends.
 
 Leave the other end of the tubing free if this round starts in the water. You will attach it to the mixing bottle later.
 
@@ -232,5 +265,5 @@ Between multiple runs, **rinse out the mixing bottle with clean water** so lefto
 .
 ├── README.md
 ├── images/                ← photos and CAD previews for this page
-└── 3d-print-files/        ← 3MF (print) and f3d (Fusion) models
+└── 3d-print-files/        ← 3MF (print) and Fusion (.f3d / .f3z) models
 ```
