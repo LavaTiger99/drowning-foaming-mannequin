@@ -1,20 +1,15 @@
 # 3D print files
 
-Drop the STL (or 3MF) files for this kit in this folder.
+**Print** the `.3mf` files. **Edit** the `.f3d` files in Fusion 360.
 
-Expected parts:
-
-| File (suggested name) | Part |
-| --- | --- |
-| `mouthpiece-adapter.stl` | Snaps into the Mini Anne mouth from behind, where the lung bag normally clicks in. Other end takes the latex tubing. |
-| `mixing-bottle.stl` | Two-chamber bottle with a center divider. |
-| `mixing-bottle-lid.stl` | Funnel-shaped lid. Mixes the two solutions when the bottle is inverted and feeds foam to the hose barb. |
-
-If the bottle and divider are separate meshes, include those too.
+| Part | 3MF (print) | Fusion (edit) |
+| --- | --- | --- |
+| Mixing bottle — divided **Jar** + funnel **Lid** | [Drowning Mannequin Bottle.3mf](Drowning%20Mannequin%20Bottle.3mf) | [Drowning Mannequin Bottle.f3d](Drowning%20Mannequin%20Bottle.f3d) |
+| Mouthpiece — **T adapter** that pops on in place of Mini Anne’s lung bag | [Laerdal Mini Anne Mannequin Mouth Attachment.3mf](Laerdal%20Mini%20Anne%20Mannequin%20Mouth%20Attachment.3mf) | [Laerdal Mini Anne Mannequin Mouth Attachment.f3d](Laerdal%20Mini%20Anne%20Mannequin%20Mouth%20Attachment.f3d) |
 
 ## Recommended print settings
 
-These models were designed around **PLA** and a **0.4 mm nozzle**.
+Designed around **PLA** and a **0.4 mm nozzle**.
 
 | Setting | Starting point |
 | --- | --- |
@@ -23,10 +18,10 @@ These models were designed around **PLA** and a **0.4 mm nozzle**.
 | Layer height | 0.20 mm |
 | Infill | 20–30% for the bottle; 40% or more for the mouthpiece and hose barbs |
 | Perimeters | 3 |
-| Supports | Usually on the funnel lid and any overhanging barb |
+| Supports | As needed on the funnel lid and any overhanging barb |
 | Bed | Standard PLA (glue stick or textured PEI) |
 
-Print the mixing bottle with the chambers open upward so the divider is vertical. After printing, test-fit:
+Print the jar with the chambers open upward so the divider is vertical. After printing, test-fit:
 
 1. Divider actually separates the two chambers when the bottle is upright.
 2. Lid seals well enough that you can invert the bottle without a geyser around the threads.
