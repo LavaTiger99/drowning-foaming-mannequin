@@ -54,16 +54,16 @@ The chemistry is the same classroom reaction as “elephant toothpaste”: yeast
 
 | Item | Why | Est. price\* | Link |
 | --- | --- | --- | --- |
-| **Laerdal Mini Anne** (Global Set) | Inflatable adult CPR manikin. Packs down small. The lung bag pops off the mouth from behind; that is where the printed adapter goes. | $42 | [Amazon](https://www.amazon.com/dp/B0CHSG9MXJ) |
-| **Natural latex tubing** — 3/8 in (10 mm) ID × 9/16 in (14 mm) OD, 1 m | Hose from mixing bottle to mouthpiece. Cut to length. | $9 | [Amazon](https://www.amazon.com/dp/B093WBLZMP) |
-| **32 oz / 1000 ml HDPE bottles**, pack of 2 | Premix **four rounds** of each solution and mark fill lines on the side. | $15 | [Amazon](https://www.amazon.com/dp/B0DT6NVHJP) |
+| **Laerdal Mini Anne** (Global Set) | Inflatable adult CPR manikin. Packs down small. The lung bag pops off the mouth from behind; that is where the printed adapter goes. | $42 | <a href="https://www.amazon.com/dp/B0CHSG9MXJ" target="_blank" rel="noopener noreferrer">Amazon</a> |
+| **Natural latex tubing** — 3/8 in (10 mm) ID × 9/16 in (14 mm) OD, 1 m | Hose from mixing bottle to mouthpiece. Cut to length. | $9 | <a href="https://www.amazon.com/dp/B093WBLZMP" target="_blank" rel="noopener noreferrer">Amazon</a> |
+| **32 oz / 1000 ml HDPE bottles**, pack of 2 | Premix **four rounds** of each solution and mark fill lines on the side. | $15 | <a href="https://www.amazon.com/dp/B0DT6NVHJP" target="_blank" rel="noopener noreferrer">Amazon</a> |
 | **Total** | Hardware above. Filament and grocery consumables are extra. | **~$66** | |
 
 \*As of August 2026, Amazon US. Prices move.
 
 ### 3D print
 
-Print the **3MF** files in [`3d-print-files/`](3d-print-files/). The matching **Fusion 360** (`.f3d`) files are there if you want to edit the models.
+Print the **3MF** files in <a href="3d-print-files/" target="_blank" rel="noopener noreferrer"><code>3d-print-files/</code></a>. The matching **Fusion 360** (`.f3d`) files are there if you want to edit the models.
 
 <p align="center">
   <img src="images/mixing-bottle.png" alt="Cross-section of the mixing bottle and funnel lid" width="360">
@@ -72,14 +72,14 @@ Print the **3MF** files in [`3d-print-files/`](3d-print-files/). The matching **
 
 | Part | Print this | Edit this |
 | --- | --- | --- |
-| **Mixing bottle** (divided jar + funnel lid) | [Drowning Mannequin Bottle.3mf](3d-print-files/Drowning%20Mannequin%20Bottle.3mf) | [Drowning Mannequin Bottle.f3d](3d-print-files/Drowning%20Mannequin%20Bottle.f3d) |
-| **Mouthpiece adapter** | [Laerdal Mini Anne Mannequin Mouth Attachment.3mf](3d-print-files/Laerdal%20Mini%20Anne%20Mannequin%20Mouth%20Attachment.3mf) | [Laerdal Mini Anne Mannequin Mouth Attachment.f3d](3d-print-files/Laerdal%20Mini%20Anne%20Mannequin%20Mouth%20Attachment.f3d) |
+| **Mixing bottle** (divided jar + funnel lid) | <a href="3d-print-files/Drowning%20Mannequin%20Bottle.3mf" target="_blank" rel="noopener noreferrer">Drowning Mannequin Bottle.3mf</a> | <a href="3d-print-files/Drowning%20Mannequin%20Bottle.f3d" target="_blank" rel="noopener noreferrer">Drowning Mannequin Bottle.f3d</a> |
+| **Mouthpiece adapter** | <a href="3d-print-files/Laerdal%20Mini%20Anne%20Mannequin%20Mouth%20Attachment.3mf" target="_blank" rel="noopener noreferrer">Laerdal Mini Anne Mannequin Mouth Attachment.3mf</a> | <a href="3d-print-files/Laerdal%20Mini%20Anne%20Mannequin%20Mouth%20Attachment.f3d" target="_blank" rel="noopener noreferrer">Laerdal Mini Anne Mannequin Mouth Attachment.f3d</a> |
 
 The bottle 3MF contains two bodies: **Jar** (divider down the middle) and **Lid** (funnel that mixes the two sides when you invert it, with a barb for the hose). The mouthpiece pops on where Mini Anne’s lungs were; the other end takes the rubber tubing.
 
-*Other manikins:* if you already have a [Simulaids Water Rescue Manikin](https://www.universalmedicalinc.com/simulaids-water-rescue-manikin-adult.html), there is a separate adapter that plugs into the back of its mouth ([3MF](3d-print-files/Simulaids%20Water%20Rescue%20Mannequin%20Foaming%20Adapter.3mf) / [Fusion](3d-print-files/Simulaids%20Water%20Rescue%20Mannequin%20Foaming%20Adapter.f3z)). You can also print any custom adapter; the hose end just needs the **same barb** so the 3/8 in (10 mm ID) latex tubing pushes on.
+*Other manikins:* if you already have a <a href="https://www.universalmedicalinc.com/simulaids-water-rescue-manikin-adult.html" target="_blank" rel="noopener noreferrer">Simulaids Water Rescue Manikin</a>, there is a separate adapter that plugs into the back of its mouth (<a href="3d-print-files/Simulaids%20Water%20Rescue%20Mannequin%20Foaming%20Adapter.3mf" target="_blank" rel="noopener noreferrer">3MF</a> / <a href="3d-print-files/Simulaids%20Water%20Rescue%20Mannequin%20Foaming%20Adapter.f3z" target="_blank" rel="noopener noreferrer">Fusion</a>). You can also print any custom adapter; the hose end just needs the **same barb** so the 3/8 in (10 mm ID) latex tubing pushes on.
 
-**Print settings:** PLA, **0.4 mm nozzle**. More detail in [`3d-print-files/README.md`](3d-print-files/README.md).
+**Print settings:** PLA, **0.4 mm nozzle**. More detail in <a href="3d-print-files/README.md" target="_blank" rel="noopener noreferrer"><code>3d-print-files/README.md</code></a>.
 
 ### Consumables (grocery / pharmacy)
 
@@ -119,7 +119,7 @@ Suggested starting point:
 | Walls | 3 perimeters |
 | Supports | As needed on the funnel lid and any overhanging barbs |
 
-To change geometry, open the `.f3d` files in [Fusion 360](https://www.autodesk.com/products/fusion-360/overview).
+To change geometry, open the `.f3d` files in <a href="https://www.autodesk.com/products/fusion-360/overview" target="_blank" rel="noopener noreferrer">Fusion 360</a>.
 
 ---
 
