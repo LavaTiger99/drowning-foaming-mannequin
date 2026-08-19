@@ -146,16 +146,11 @@ Premix **Bottle A** ahead of time; peroxide + soap stores fine in a closed bottl
 
 Keep the printed mixer **upright** so the divider does its job.
 
-For **one round**, pour about **one quarter** of each stock bottle into its chamber:
+Pour Chamber 1 mix on one side of the divider and Chamber 2 mix on the other. You only need to fill the bottle to about **3/4 full**, or **an inch from the top**. Match the levels so both sides of the divider are about equal. Do not fill it to the brim — the funnel lid needs headroom when you invert it.
 
-| Mixer chamber | From | About |
-| --- | --- | --- |
-| Chamber 1 | Bottle A | 1 cup peroxide mix (~250 ml) |
-| Chamber 2 | Bottle B | ½ cup yeast mix (~150 ml) |
+Screw on the funnel lid. The bottle is now **primed**. Set it upright next to the scenario until you want foam.
 
-Screw on the funnel lid. Confirm the divider is still keeping the two sides apart. The bottle is now **primed**. Set it upright next to the scenario until you want foam.
-
-If you are mixing a single round from scratch (no stock bottles), use the per-round amounts in the recipe below.
+If you are mixing a single round from scratch (no stock bottles), use the per-round amounts in the recipe below, still stopping at 3/4 full with even levels.
 
 ---
 
@@ -179,7 +174,9 @@ This kit is built around **3% hydrogen peroxide** and **room-temperature water\*
 | Room-temperature water\* | **2 cups** = 472 ml |
 | Dry yeast | **8 tablespoons** = 120 ml ≈ **80 g** = **8 bottle caps** |
 
-### One round (pour into the printed mixer)
+### One round (mix, then fill the printed bottle)
+
+Mix a small batch of each solution, then pour them into opposite sides of the mixer. Stop when the bottle is about **3/4 full** (an inch from the top) and both sides of the divider are at the same level.
 
 | Chamber | Ingredient | Amount |
 | --- | --- | --- |
@@ -187,6 +184,8 @@ This kit is built around **3% hydrogen peroxide** and **room-temperature water\*
 | 1 | Liquid dish soap | 1 tablespoon = 15 ml = 1 cap |
 | 2 | Room-temperature water\* | ½ cup = 118 ml |
 | 2 | Dry yeast | 2 tablespoons ≈ 20 g = 2 caps |
+
+If one side is still low, add more of that same mix until the levels match. You do not need to fill the bottle to the brim.
 
 ---
 
