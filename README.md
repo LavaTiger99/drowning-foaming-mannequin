@@ -6,7 +6,7 @@
 
 A compact, instructor-built training aid that makes foam pour from a Mini Anne’s mouth during a drowning or water-rescue scenario.
 
-It is meant for **lifeguard, EMS, and water-rescue instructors** who want a visual cue of foam at the airway. Mini Anne is inflatable, so the whole kit packs small and travels easily.
+It is meant for **medical instructors** who want a simulation of drowning-related surfactant foam at the airway. Mini Anne is inflatable, so the whole kit packs small and travels easily.
 
 ![Full kit: Mini Anne, rubber tubing, mixing bottle, and two marked premix bottles](images/whole-setup.jpg)
 
