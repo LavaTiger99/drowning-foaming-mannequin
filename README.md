@@ -22,17 +22,17 @@ Two solutions stay separated until you decide the “victim” should foam:
 
 | Chamber | Mix | Role |
 | --- | --- | --- |
-| **1** | 3% hydrogen peroxide + dish soap | Peroxide supplies oxygen; soap traps it as foam |
-| **2** | Room-temperature water\* + dry yeast | Yeast (catalase) triggers the reaction |
+| **Larger** | 3% hydrogen peroxide + dish soap | Peroxide supplies oxygen; soap traps it as foam |
+| **Smaller** | Room-temperature water\* + dry yeast | Yeast (catalase) triggers the reaction |
 
-Those two mixes live in a **3D-printed mixing bottle** with a divider down the middle. Keep the bottle upright to prime and wait. When the rescue is underway, flip it. Both sides dump into a **funnel-shaped lid**, mix, and foam out through rubber tubing into a **mouthpiece adapter** that pops onto Mini Anne where the lung bag normally sits.
+Those two mixes live in a **3D-printed mixing bottle** with a divider that makes one chamber bigger than the other. **Hydrogen peroxide mix goes in the larger chamber. Yeast mix goes in the smaller chamber.** Fill both until the liquid levels match — about **3/4 full**, or an inch from the top. Keep the bottle upright to prime and wait. When the rescue is underway, flip it. Both sides dump into a **funnel-shaped lid**, mix, and foam out through rubber tubing into a **mouthpiece adapter** that pops onto Mini Anne where the lung bag normally sits.
 
 You can leave the tubing **disconnected from the mixing bottle** while the team pulls the manikin out of a pond or lake, then attach the hose when you want foam in the middle of the scenario.
 
 ```mermaid
 flowchart LR
-  C1["Chamber 1<br/>3% H₂O₂ + dish soap"]
-  C2["Chamber 2<br/>yeast + room-temp water"]
+  C1["Larger chamber<br/>3% H₂O₂ + dish soap"]
+  C2["Smaller chamber<br/>yeast + room-temp water"]
   Lid["Funnel lid<br/>(mixes when inverted)"]
   Tube["Rubber tubing"]
   Mouth["Mini Anne adapter"]
@@ -72,10 +72,10 @@ Print the **3MF** files in <a href="3d-print-files/" target="_blank" rel="noopen
 
 | Part | Print this | Edit this |
 | --- | --- | --- |
-| **Mixing bottle** (divided jar + funnel lid) | <a href="3d-print-files/Drowning%20Mannequin%20Bottle.3mf" target="_blank" rel="noopener noreferrer">Drowning Mannequin Bottle.3mf</a> | <a href="3d-print-files/Drowning%20Mannequin%20Bottle.f3d" target="_blank" rel="noopener noreferrer">Drowning Mannequin Bottle.f3d</a> |
+| **Mixing bottle** (larger chamber peroxide, smaller chamber yeast + funnel lid) | <a href="3d-print-files/Drowning%20Mannequin%20Bottle.3mf" target="_blank" rel="noopener noreferrer">Drowning Mannequin Bottle.3mf</a> | <a href="3d-print-files/Drowning%20Mannequin%20Bottle.f3d" target="_blank" rel="noopener noreferrer">Drowning Mannequin Bottle.f3d</a> |
 | **Mouthpiece adapter** | <a href="3d-print-files/Laerdal%20Mini%20Anne%20Mannequin%20Mouth%20Attachment.3mf" target="_blank" rel="noopener noreferrer">Laerdal Mini Anne Mannequin Mouth Attachment.3mf</a> | <a href="3d-print-files/Laerdal%20Mini%20Anne%20Mannequin%20Mouth%20Attachment.f3d" target="_blank" rel="noopener noreferrer">Laerdal Mini Anne Mannequin Mouth Attachment.f3d</a> |
 
-The bottle 3MF contains two bodies: **Jar** (divider down the middle) and **Lid** (funnel that mixes the two sides when you invert it, with a barb for the hose). The mouthpiece pops on where Mini Anne’s lungs were; the other end takes the rubber tubing.
+The bottle 3MF contains two bodies: **Jar** (offset divider — larger chamber for peroxide, smaller chamber for yeast) and **Lid** (funnel that mixes the two sides when you invert it, with a barb for the hose). The mouthpiece pops on where Mini Anne’s lungs were; the other end takes the rubber tubing.
 
 *Other manikins:* if you already have a <a href="https://www.universalmedicalinc.com/simulaids-water-rescue-manikin-adult.html" target="_blank" rel="noopener noreferrer">Simulaids Water Rescue Manikin</a>, there is a separate adapter that plugs into the back of its mouth (<a href="3d-print-files/Simulaids%20Water%20Rescue%20Mannequin%20Foaming%20Adapter.3mf" target="_blank" rel="noopener noreferrer">3MF</a> / <a href="3d-print-files/Simulaids%20Water%20Rescue%20Mannequin%20Foaming%20Adapter.f3z" target="_blank" rel="noopener noreferrer">Fusion</a>). You can also print any custom adapter; the hose end just needs the **same barb** so the 3/8 in (10 mm ID) latex tubing pushes on.
 
@@ -143,14 +143,14 @@ Leave the other end of the tubing free if this round starts in the water. You wi
 
 The two 32 oz bottles hold **four scenario rounds**. Use a permanent marker on the side so you are not measuring from scratch every class.
 
-**Bottle A — Chamber 1 stock (peroxide + soap)**
+**Bottle A — peroxide + soap (goes in the larger mixer chamber)**
 
 - Draw a fill line at **4 cups / 948 ml** for peroxide.
 - Label: `+ 4 Tbsp dish soap` (or `+ 4 caps`).
 
 That mix almost fills the 1000 ml bottle. The soap goes in *after* the peroxide line.
 
-**Bottle B — Chamber 2 stock (yeast + water)**
+**Bottle B — yeast + water (goes in the smaller mixer chamber)**
 
 - Draw a fill line at **2 cups / 472 ml** for water.
 - Label: `+ 8 Tbsp yeast` (or `+ 8 caps`, about **80 g**).
@@ -165,11 +165,11 @@ Premix **Bottle A** ahead of time; peroxide + soap stores fine in a closed bottl
 
 Keep the printed mixer **upright** so the divider does its job.
 
-Pour Chamber 1 mix on one side of the divider and Chamber 2 mix on the other. You only need to fill the bottle to about **3/4 full**, or **an inch from the top**. Match the levels so both sides of the divider are about equal. Do not fill it to the brim — the funnel lid needs headroom when you invert it.
+Pour the **hydrogen peroxide mix into the larger chamber** and the **yeast mix into the smaller chamber**. Fill to about **3/4 full**, or **an inch from the top**, and match the **levels** so both sides sit at the same height. The larger side will hold more liquid; that is expected. Do not fill it to the brim — the funnel lid needs headroom when you invert it.
 
 Screw on the funnel lid. The bottle is now **primed**. Set it upright next to the scenario until you want foam.
 
-If you are mixing a single round from scratch (no stock bottles), use the per-round amounts in the recipe below, still stopping at 3/4 full with even levels.
+If you are mixing a single round from scratch (no stock bottles), use the per-round amounts in the recipe below, still using the larger chamber for peroxide, the smaller for yeast, and matching the levels at 3/4 full.
 
 ---
 
@@ -179,14 +179,14 @@ This kit is built around **3% hydrogen peroxide** and **room-temperature water\*
 
 ### Four rounds (fill the two 32 oz bottles)
 
-#### Chamber 1 — hydrogen peroxide + dish soap
+#### Larger chamber — hydrogen peroxide + dish soap
 
 | Ingredient | Amount |
 | --- | --- |
 | 3% hydrogen peroxide | **4 cups** = 948 ml |
 | Liquid dish soap | **4 tablespoons** = 60 ml = **4 bottle caps** |
 
-#### Chamber 2 — yeast + water
+#### Smaller chamber — yeast + water
 
 | Ingredient | Amount |
 | --- | --- |
@@ -195,14 +195,14 @@ This kit is built around **3% hydrogen peroxide** and **room-temperature water\*
 
 ### One round (mix, then fill the printed bottle)
 
-Mix a small batch of each solution, then pour them into opposite sides of the mixer. Stop when the bottle is about **3/4 full** (an inch from the top) and both sides of the divider are at the same level.
+Mix a small batch of each solution, then pour peroxide mix into the **larger** chamber and yeast mix into the **smaller** chamber. Stop when the bottle is about **3/4 full** (an inch from the top) and both **levels** are the same height.
 
 | Chamber | Ingredient | Amount |
 | --- | --- | --- |
-| 1 | 3% hydrogen peroxide | 1 cup = 237 ml |
-| 1 | Liquid dish soap | 1 tablespoon = 15 ml = 1 cap |
-| 2 | Room-temperature water\* | ½ cup = 118 ml |
-| 2 | Dry yeast | 2 tablespoons ≈ 20 g = 2 caps |
+| Larger | 3% hydrogen peroxide | 1 cup = 237 ml |
+| Larger | Liquid dish soap | 1 tablespoon = 15 ml = 1 cap |
+| Smaller | Room-temperature water\* | ½ cup = 118 ml |
+| Smaller | Dry yeast | 2 tablespoons ≈ 20 g = 2 caps |
 
 If one side is still low, add more of that same mix until the levels match. You do not need to fill the bottle to the brim.
 
