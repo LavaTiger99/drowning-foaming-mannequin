@@ -12,6 +12,10 @@ It is meant for **medical instructors** who want a simulation of drowning-relate
 
 *Mini Anne, mixing bottle, tubing, and the two premix bottles marked for four rounds. The peroxide bottle is full; the yeast-and-water bottle looks about half full — that is normal.*
 
+![Full kit: Mini Anne, rubber tubing, mixing bottle, and two marked premix bottles](images/whole-setup.jpg)
+
+*Mini Anne, mixing bottle, tubing, and the two premix bottles marked for four rounds.*
+
 > **Training use only.** This is a classroom / scenario prop, not a medical device.
 
 ---
