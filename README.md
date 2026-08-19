@@ -1,5 +1,9 @@
 # Foaming Drowning Mannequin
 
+![Foam pouring from a water-rescue manikin’s mouth during a training scenario](images/foaming-in-action.png)
+
+*Foam out of the mouth during a water-rescue drill. Invert the mixing bottle when you want it to start.*
+
 A compact, instructor-built training aid that makes foam pour from a manikin’s mouth during a drowning or water-rescue scenario.
 
 It is meant for **lifeguard, EMS, and water-rescue instructors** who want a visual cue of foam at the airway. The default build uses an inflatable Mini Anne, so that kit packs small and travels easily. The same mixing bottle and hose also work on a Simulaids water-rescue dummy, or on any manikin if you print an adapter with the matching hose barb.
