@@ -4,6 +4,10 @@ A compact, instructor-built training aid that makes foam pour from a CPR manikin
 
 It is meant for **lifeguard, EMS, and water-rescue instructors** who want a visual cue of foam at the airway without buying a specialty drowning dummy. The manikin is inflatable, so the whole kit packs small and travels easily.
 
+![Full kit: Mini Anne, rubber tubing, mixing bottle, and two marked premix bottles](images/whole-setup.jpg)
+
+*Mini Anne, mixing bottle, tubing, and the two premix bottles marked for four rounds.*
+
 > **Training use only.** This is a classroom / scenario prop, not a medical device.
 
 ---
@@ -113,6 +117,10 @@ To change geometry, open the `.f3d` files in [Fusion 360](https://www.autodesk.c
 ## Assemble the kit
 
 ### 1. Install the mouthpiece
+
+![Mouthpiece adapter clicked into the inside of the Mini Anne head, with tubing attached](images/underside-of-head-attachment.jpg)
+
+*Lift the face, pop off the lung bag, and click the adapter in from behind. The tubing pushes onto the barb.*
 
 1. Inflate Mini Anne as usual.
 2. **Lift up the face** of the mannequin.
