@@ -72,7 +72,7 @@ Print the **3MF** files in <a href="3d-print-files/" target="_blank" rel="noopen
 
 | Part | Print this | Edit this |
 | --- | --- | --- |
-| **Mixing bottle** (divided jar + funnel lid) | <a href="3d-print-files/Drowning%20Mannequin%20Bottle.3mf" target="_blank" rel="noopener noreferrer">Drowning Mannequin Bottle.3mf</a> | <a href="3d-print-files/Drowning%20Mannequin%20Bottle.f3d" target="_blank" rel="noopener noreferrer">Drowning Mannequin Bottle.f3d</a> |
+| **Mixing bottle** (divided jar + funnel lid) | <a href="3d-print-files/Drowning%20Sim%20Bottle.3mf" target="_blank" rel="noopener noreferrer">Drowning Sim Bottle.3mf</a> | <a href="3d-print-files/Drowning%20Sim%20Bottle.f3d" target="_blank" rel="noopener noreferrer">Drowning Sim Bottle.f3d</a> |
 | **Mouthpiece adapter** | <a href="3d-print-files/Laerdal%20Mini%20Anne%20Mannequin%20Mouth%20Attachment.3mf" target="_blank" rel="noopener noreferrer">Laerdal Mini Anne Mannequin Mouth Attachment.3mf</a> | <a href="3d-print-files/Laerdal%20Mini%20Anne%20Mannequin%20Mouth%20Attachment.f3d" target="_blank" rel="noopener noreferrer">Laerdal Mini Anne Mannequin Mouth Attachment.f3d</a> |
 
 The bottle 3MF contains two bodies: **Jar** (divider down the middle) and **Lid** (funnel that mixes the two sides when you invert it, with a barb for the hose). The mouthpiece pops on where Mini Anne’s lungs were; the other end takes the rubber tubing.
