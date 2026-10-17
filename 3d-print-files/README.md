@@ -4,7 +4,7 @@
 
 | Part | 3MF (print) | Fusion (edit) |
 | --- | --- | --- |
-| Mixing bottle — **Jar** (larger chamber peroxide, smaller chamber yeast) + funnel **Lid** | <a href="Drowning%20Mannequin%20Bottle.3mf" target="_blank" rel="noopener noreferrer">Drowning Mannequin Bottle.3mf</a> | <a href="Drowning%20Mannequin%20Bottle.f3d" target="_blank" rel="noopener noreferrer">Drowning Mannequin Bottle.f3d</a> |
+| Mixing bottle — divided **Jar** (larger chamber peroxide, smaller chamber yeast) + funnel **Lid** | <a href="Drowning%20Mannequin%20Bottle.3mf" target="_blank" rel="noopener noreferrer">Drowning Mannequin Bottle.3mf</a> | <a href="Drowning%20Mannequin%20Bottle.f3d" target="_blank" rel="noopener noreferrer">Drowning Mannequin Bottle.f3d</a> |
 | Mini Anne mouthpiece — pops on in place of the lung bag | <a href="Laerdal%20Mini%20Anne%20Mannequin%20Mouth%20Attachment.3mf" target="_blank" rel="noopener noreferrer">Laerdal Mini Anne Mannequin Mouth Attachment.3mf</a> | <a href="Laerdal%20Mini%20Anne%20Mannequin%20Mouth%20Attachment.f3d" target="_blank" rel="noopener noreferrer">Laerdal Mini Anne Mannequin Mouth Attachment.f3d</a> |
 
 *Other manikins:* <a href="https://www.universalmedicalinc.com/simulaids-water-rescue-manikin-adult.html" target="_blank" rel="noopener noreferrer">Simulaids Water Rescue Manikin</a> adapter that plugs into the back of the mouth — <a href="Simulaids%20Water%20Rescue%20Mannequin%20Foaming%20Adapter.3mf" target="_blank" rel="noopener noreferrer">3MF</a> / <a href="Simulaids%20Water%20Rescue%20Mannequin%20Foaming%20Adapter.f3z" target="_blank" rel="noopener noreferrer">Fusion <code>.f3z</code></a>. A custom adapter is fine too if the hose end uses the same barb as the mixing-bottle lid (3/8 in / 10 mm ID latex tubing).
